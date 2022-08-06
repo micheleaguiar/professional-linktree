@@ -24,7 +24,16 @@ h1{
     font-size: 26px;
 }
 
-.principal, .link-tree{
+.principal{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;  
+}
+
+.link-tree{
+    margin-top: 8px;
     display: flex;
     flex-direction: column;
     align-items: center;    
@@ -34,7 +43,15 @@ h1{
     width: 326px;
     height: 50px;
     border: 2px solid #2daab0;
+    border-radius: 4px;
     font-size: 16px;
     margin-bottom: 10px;
     background-color: #bcf8fc;
+}
+
+a{
+    color:  #2daab0;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: 600;
 }
