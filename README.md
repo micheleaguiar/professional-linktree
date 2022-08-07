@@ -1,9 +1,11 @@
-Hi, I'm Michele :wave:
+<p  align= "center">
+  Hi, I'm Michele :wave:<p>
 
-And this is my professional link tree.
+  <p align="center">And this is my professional LinkTree.</p>
 
-To access for your browser: <a href="https://aguiarmichele-linktree.netlify.app" target="_blank">My Professional Linktree</a>
+  <p align="center">To access for your browser: <a href="https://aguiarmichele-linktree.netlify.app" target="_blank">My Professional Linktree</a></p>
 
 
-
-<img class="screenshot" src="github/screenshot.JPG" alt="Captura de Tela">
+<p align="center">
+  <img  class="screenshot" src="github/screenshot.JPG" alt="Captura de Tela">
+</p>
