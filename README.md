@@ -6,4 +6,4 @@ To access for your browser: <a href="https://aguiarmichele-linktree.netlify.app"
 
 
 
-<img class="screenshot" src="github/screenshot.jpg" alt="Captura de Tela">
+<img class="screenshot" src="github/screenshot.JPG" alt="Captura de Tela">
