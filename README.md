@@ -1,9 +1,9 @@
-<h1  align= "center">
-  Hi, I'm Michele :wave:<h1>
+<p  align= "center">
+  Hi, I'm Michele :wave:<p>
 
-  <h2 align="center">And this is my professional link tree.</h2>
+  <p align="center">And this is my professional link tree.</p>
 
-  <h3 align="center">To access for your browser: <a href="https://aguiarmichele-linktree.netlify.app" target="_blank">My Professional Linktree</a></h3>
+  <p align="center">To access for your browser: <a href="https://aguiarmichele-linktree.netlify.app" target="_blank">My Professional Linktree</a></p>
 
 
 <p align="center">
